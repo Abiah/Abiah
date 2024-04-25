@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abiah
+- 👋 Hi, I’m Abiah Fiifi Quayson
 - 👀 I’m interested in programming (mobile and web)(Laravel And Flutter)
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on all your projects
